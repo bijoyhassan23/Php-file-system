@@ -134,6 +134,7 @@ while(! feof($file_f)){
  * there is two mood
  * "FILE_APPEND" previous data will not delet new data will add end of the previous data
  * "LOCK_EX" security purpose  
+ * if file existing it will open the file if file is not exist then it will createa a file
  * file_put_contents(filename, data, mode, context)
  */
 
