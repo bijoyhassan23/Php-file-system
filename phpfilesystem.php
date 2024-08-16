@@ -9,7 +9,7 @@ $file = 'dummy.txt';
 // rename("newfile2.txt", "oldfile.txt"); // rename file
 // unlink("oldfile.txt"); // delet file
 
-// mkdir("textfiles"); // create filder
+// mkdir("textfiles"); // create folder
 // rmdir("textfiles"); // remove folder
 // filesize($file); // get the file size
 // filetype($file); // check the file type
